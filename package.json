@@ -1,0 +1,24 @@
+{
+  "name": "glup-removelogs",
+  "version": "0.0.1",
+  "description": "glup plugin to remove console.logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemanth/glup-removelogs"
+  },
+  "keywords": [
+    "log",
+    "console",
+    "glup"
+  ],
+  "author": "Hemanth.HM",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/hemanth/glup-removelogs/issues"
+  },
+  "homepage": "https://github.com/hemanth/glup-removelogs"
+}
