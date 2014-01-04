@@ -14,12 +14,13 @@ Then, add it to your `gulpfile.js`:
 ```javascript
 var removeLogs = require('gulp-removelogs');
 
-gulp.task('templates', function(){
-  gulp.src('index.html')
+gulp.task('default', function(){
+  gulp.src('index.js')
     .pipe(removeLogs())
-    .pipe(gulp.dest('build/index.html'));
+    .pipe(gulp.dest('build/index.js'));
 });
 ```
+The above with strip of all console realated logs from index.js
 
 [travis-url]: http://travis-ci.org/hemanth/gulp-removelogs
 [travis-image]: https://secure.travis-ci.org/lazd/gulp-removelogs.png?branch=master
