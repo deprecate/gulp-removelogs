@@ -1,3 +1,7 @@
+# This plugin is depricated in favour of [gulp-strip-debug](https://www.npmjs.org/package/gulp-strip-debug)
+
+
+
 # gulp-removelogs [![NPM version][npm-image]][npm-url] [![Build status][travis-image]][travis-url]
 > Strip of logs from a file.
 
