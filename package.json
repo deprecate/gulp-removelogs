@@ -1,6 +1,6 @@
 {
   "name": "gulp-removelogs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "gulp plugin to remove console.logs",
   "main": "index.js",
   "scripts": {
